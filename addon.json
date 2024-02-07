@@ -1,0 +1,11 @@
+ {
+ 	"title"		:	"gctOS Rewrite [Watch_Dogs 2 Hacking Abilities]", 	
+    "type"		:	"tool",
+	"tags"		:	[ "roleplay", "fun" ],
+ 	"ignore"	:
+ 	[
+ 		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+ 	]
+ }
